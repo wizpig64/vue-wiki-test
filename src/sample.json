@@ -1,0 +1,388 @@
+{
+  "user_profile": {
+    "id": 1,
+    "first_name": "Sample",
+    "last_name": "User",
+    "full_name": "Sample User",
+    "short_name": "Sample",
+    "is_superuser": true,
+    "is_staff": true,
+    "is_active": true,
+    "is_manager": true,
+    "is_admin": true,
+    "date_joined": "2013-08-12T15:35:43.658893-07:00",
+    "last_login": "2018-09-20T19:19:56.696388-07:00",
+    "is_authenticated": true
+  },
+  "user_dropdown_items": [
+    {
+      "url": "/admin/",
+      "icon": "tachometer",
+      "text": "Admin Dashboard"
+    },
+    {
+      "url": "/logout/",
+      "icon": "door-open",
+      "text": "Log out"
+    }
+  ],
+  "user_is_hijacked": false,
+  "page": {
+    "id": "da73375d-fe5e-497b-b4b6-cf0007a873d3",
+    "site": 1,
+    "path": "/tiptap/",
+    "resource_api_url": "/api/wysiwyg/5df514d4-8a7b-474f-bdc6-b24334cdb178/",
+    "contributors": [
+      {
+        "id": 1,
+        "first_name": "Sample",
+        "last_name": "User",
+        "full_name": "Sample User",
+        "short_name": "Sample",
+        "is_superuser": true,
+        "is_staff": true,
+        "is_active": true,
+        "is_manager": true,
+        "is_admin": true,
+        "date_joined": "2013-08-12T15:35:43.658893-07:00",
+        "last_login": "2018-09-20T19:19:56.696388-07:00",
+        "is_authenticated": true
+      }
+    ],
+    "resource": {
+      "id": "5df514d4-8a7b-474f-bdc6-b24334cdb178",
+      "document": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "heading",
+            "attrs": {
+              "level": 3
+            },
+            "content": [
+              {
+                "text": "Hi there!",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "this is a very ",
+                "type": "text"
+              },
+              {
+                "text": "enthusiastic",
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ]
+              },
+              {
+                "text": " example of tiptap!",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "code_block",
+            "content": [
+              {
+                "text": "body { display: none; }",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "bullet_list",
+            "content": [
+              {
+                "type": "list_item",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "A regular list!",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "With regular items!",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "blockquote",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "It's amazing!!! \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f ",
+                    "type": "text"
+                  },
+                  {
+                    "type": "hard_break"
+                  },
+                  {
+                    "text": " \u2013 mom",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "history": [
+        {
+          "id": "5df514d4-8a7b-474f-bdc6-b24334cdb178",
+          "document": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "heading",
+                "attrs": {
+                  "level": 3
+                },
+                "content": [
+                  {
+                    "text": "Hi there!",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "this is a very ",
+                    "type": "text"
+                  },
+                  {
+                    "text": "enthusiastic",
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "text": " example of tiptap!",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "code_block",
+                "content": [
+                  {
+                    "text": "body { display: none; }",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "bullet_list",
+                "content": [
+                  {
+                    "type": "list_item",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "text": "A regular list!",
+                            "type": "text"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "text": "With regular items!",
+                            "type": "text"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "blockquote",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "It's amazing!!! \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f ",
+                        "type": "text"
+                      },
+                      {
+                        "type": "hard_break"
+                      },
+                      {
+                        "text": " \u2013 mom",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "history_id": "8a00ce45-1bae-4f8b-980b-666b32fd686a",
+          "history_change_reason": null,
+          "history_date": "2018-09-21T22:31:44.887Z",
+          "history_user_id": 1,
+          "history_type": "~",
+          "history_user__first_name": "Sample",
+          "history_user__last_name": "User"
+        },
+        {
+          "id": "5df514d4-8a7b-474f-bdc6-b24334cdb178",
+          "document": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "heading",
+                "attrs": {
+                  "level": 3
+                },
+                "content": [
+                  {
+                    "text": "Hi there,",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "this is a very ",
+                    "type": "text"
+                  },
+                  {
+                    "text": "basic",
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "text": " example of tiptap.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "code_block",
+                "content": [
+                  {
+                    "text": "body { display: none; }",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "bullet_list",
+                "content": [
+                  {
+                    "type": "list_item",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "text": "A regular list",
+                            "type": "text"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "text": "With regular items",
+                            "type": "text"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "blockquote",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "It's amazing \ud83d\udc4f ",
+                        "type": "text"
+                      },
+                      {
+                        "type": "hard_break"
+                      },
+                      {
+                        "text": " \u2013 mom",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "history_id": "974a63ba-f095-4c77-9b72-a6b4513bca0b",
+          "history_change_reason": null,
+          "history_date": "2018-09-21T01:58:18.007Z",
+          "history_user_id": 1,
+          "history_type": "+",
+          "history_user__first_name": "Sample",
+          "history_user__last_name": "User"
+        }
+      ]
+    }
+  },
+  "path_clean": "/tiptap/",
+  "path_parents": [
+    "/"
+  ]
+}
